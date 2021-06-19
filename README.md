@@ -3,7 +3,7 @@
 Hey curious mind,
 This is an app in which I tried to make a replica of Quora to my best efforts using React, Redux, Node JS, Express Js, MongoDb, REST Api and little bit of AWS | [Visit Website](https://mockup-quora.netlify.app/quora/)
 
-![Mockup-Quora](https://raw.githubusercontent.com/SudhansuBandha/mockup-quora-2/main/frontend/public/images/Screenshot.png)
+![Mockup-Quora](https://github.com/SudhansuBandha/mockup-quora-2/blob/main/frontend/public/images/Screenshot%20.png)
 
 ## Features :
 
